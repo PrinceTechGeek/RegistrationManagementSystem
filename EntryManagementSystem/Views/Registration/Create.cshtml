@@ -1,0 +1,113 @@
+﻿@model EventRegistrationSystem.MVC.Models.RegistrationViewModel
+
+@{
+    ViewData["Title"] = "Event Registration";
+}
+
+<div class="container">
+    <h2 class="text-center">@ViewData["Title"]</h2>
+
+    <form asp-action="Create" method="post" class="registration-form">
+        @Html.AntiForgeryToken()
+        <div class="form-group">
+            <label asp-for="EventName" class="form-label"></label>
+            <input asp-for="EventName" class="form-control" placeholder="Enter event name" />
+            <span asp-validation-for="EventName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="ParticipantName" class="form-label"></label>
+            <input asp-for="ParticipantName" class="form-control" placeholder="Enter participant name" />
+            <span asp-validation-for="ParticipantName" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="EmailAddress" class="form-label"></label>
+            <input asp-for="EmailAddress" class="form-control" placeholder="Enter email address" />
+            <span asp-validation-for="EmailAddress" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="NumberOfTickets" class="form-label"></label>
+            <input asp-for="NumberOfTickets" class="form-control" placeholder="Enter number of tickets" />
+            <span asp-validation-for="NumberOfTickets" class="text-danger"></span>
+        </div>
+        <div class="form-group">
+            <label asp-for="EventType" class="form-label"></label>
+            <select asp-for="EventType" class="form-control">
+                <option value="" disabled selected>Select event type</option>
+                <option value="Virtual">Virtual</option>
+                <option value="InPerson">In-Person</option>
+            </select>
+            <span asp-validation-for="EventType" class="text-danger"></span>
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg rounded-button">Register</button>
+    </form>
+</div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+}
+
+<style>
+    .container {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 1.5rem;
+    }
+
+    .text-center {
+        text-align: center;
+        margin-bottom: 1.5rem;
+    }
+
+    .registration-form {
+        background-color: #f8f9fa;
+        border-radius: 0.3rem;
+        box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+        padding: 1.5rem;
+    }
+
+    .form-group {
+        margin-bottom: 1rem;
+    }
+
+    .form-label {
+        margin-bottom: 0.5rem;
+        font-weight: 600;
+    }
+
+    .form-control {
+        display: block;
+        width: 100%;
+        padding: 0.5rem;
+        font-size: 1rem;
+        line-height: 1.25;
+        color: #495057;
+        background-color: #fff;
+        background-clip: padding-box;
+        border: 1px solid #ced4da;
+        border-radius: 0.3rem;
+    }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+        color: #fff;
+    }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #004085;
+        }
+
+    .rounded-button {
+        border-radius: 50px;
+        padding: 0.75rem 2rem;
+        font-size: 1.25rem;
+        line-height: 1.5;
+    }
+
+    .text-danger {
+        color: #dc3545;
+    }
+</style>
