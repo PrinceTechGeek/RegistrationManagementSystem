@@ -1,41 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\",
+  "WorkspaceRootPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\views\\registration\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\views\\registration\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:views\\registration\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:controllers\\registrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\source\\repos\\eventmanagementsystem\\entrymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|c:\\users\\prince sharma\\documents\\github\\registrationmanagementsystem\\entrymanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{167782DD-CF59-4B84-A2D8-0843EEFC5430}|EventRegistrationSystem.MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -120,11 +120,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Views\\Registration\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Views\\Registration\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Registration\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Views\\Registration\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Views\\Registration\\Create.cshtml",
               "RelativeToolTip": "Views\\Registration\\Create.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBwAAABjAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAuwBcAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-12T18:25:51.037Z",
               "EditorCaption": ""
@@ -133,9 +133,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "RegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Controllers\\RegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Controllers\\RegistrationController.cs",
               "RelativeDocumentMoniker": "Controllers\\RegistrationController.cs",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Controllers\\RegistrationController.cs",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Controllers\\RegistrationController.cs",
               "RelativeToolTip": "Controllers\\RegistrationController.cs",
               "ViewState": "AQIAABMAAAAAMzMzMzMmwB4AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -217,9 +217,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -229,9 +229,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Models\\ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Models\\ErrorViewModel.cs",
               "RelativeToolTip": "Models\\ErrorViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -253,9 +253,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\appsettings.Development.json",
               "RelativeToolTip": "appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -277,9 +277,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -301,9 +301,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Properties\\launchSettings.json",
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -349,9 +349,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\wwwroot\\js\\site.js",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\wwwroot\\js\\site.js",
               "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\wwwroot\\js\\site.js",
               "RelativeToolTip": "wwwroot\\js\\site.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -361,9 +361,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Prince Sharma\\source\\repos\\EventManagementSystem\\EntryManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

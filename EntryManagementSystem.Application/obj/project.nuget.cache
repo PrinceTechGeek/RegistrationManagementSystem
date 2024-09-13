@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3KEjLOgxcQo=",
+  "dgSpecHash": "pL0d3rQCJHw=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj",
+  "projectFilePath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Prince Sharma\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Prince Sharma\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

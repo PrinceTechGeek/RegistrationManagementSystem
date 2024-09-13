@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj": {}
+    "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj": {
+    "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj",
+        "projectUniqueName": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj",
         "projectName": "EntryManagementSystem.API",
-        "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj",
+        "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.API\\EntryManagementSystem.API.csproj",
         "packagesPath": "C:\\Users\\Prince Sharma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.API\\obj\\",
+        "outputPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,11 +33,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj": {
-                "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj"
+              "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj": {
+                "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj"
               },
-              "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
-                "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj"
+              "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj"
               }
             }
           }
@@ -99,14 +99,14 @@
         }
       }
     },
-    "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj": {
+    "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj",
         "projectName": "EntryManagementSystem.Application",
-        "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj",
+        "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Application\\EntryManagementSystem.Application.csproj",
         "packagesPath": "C:\\Users\\Prince Sharma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Application\\obj\\",
+        "outputPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,11 +128,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
-                "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj"
+              "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj"
               },
-              "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj"
+              "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj"
               }
             }
           }
@@ -171,14 +171,14 @@
         }
       }
     },
-    "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
+    "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj",
         "projectName": "EntryManagementSystem.Domain",
-        "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj",
+        "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj",
         "packagesPath": "C:\\Users\\Prince Sharma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -236,14 +236,14 @@
         }
       }
     },
-    "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj": {
+    "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj",
         "projectName": "EntryManagementSystem.Infrastructure",
-        "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Infrastructure\\EntryManagementSystem.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Prince Sharma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -265,8 +265,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
-                "projectPath": "C:\\Users\\Prince Sharma\\Source\\Repos\\EventManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj"
+              "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj": {
+                "projectPath": "C:\\Users\\Prince Sharma\\Documents\\GitHub\\RegistrationManagementSystem\\EntryManagementSystem.Domain\\EntryManagementSystem.Domain.csproj"
               }
             }
           }
