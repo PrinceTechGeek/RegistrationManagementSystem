@@ -17,8 +17,18 @@ namespace EventRegistrationSystem.MVC.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var registrations = await _registrationService.GetAllRegistrationsAsync();
-            return View(registrations);
+            var registrationDtos = await _registrationService.GetAllRegistrationsAsync();
+
+            var registrationViewModels = registrationDtos.Select(dto => new RegistrationViewModel
+            {
+                EventName = dto.EventName,
+                ParticipantName = dto.ParticipantName,
+                EmailAddress = dto.EmailAddress,
+                NumberOfTickets = dto.NumberOfTickets,
+                EventType = dto.EventType
+            }).ToList();
+
+            return View(registrationViewModels);
         }
 
         [HttpGet]
